@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+deploy:
+  theme: jekyll-theme-cayman
+  repo:https://github.com/adanadanadan/adanadanadan.github.io.git
+  branch:master
